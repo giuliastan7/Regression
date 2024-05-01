@@ -1,6 +1,6 @@
 # Regression
 Here we have a step-by-step implementation of a linear regression model using the Iris dataset. 
-1. Loading the dataset
+1. Loading the dataset 
 We started by loading the Iris dataset using the Seaborn library, which provides the load_dataset('iris') function. This dataset contains information about different types of irises, including petal length and width.
 
 2. Viewing the data
